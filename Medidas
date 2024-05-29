@@ -1,3 +1,8 @@
 Formatacao_Texto
   Seta_Cima = UNICHAR(9650)
   Seta_Baixo = UNICHAR(9660)
+  Quebrar_Linha = UNICHAR(10)
+  Cor_Transparente = "RGBA(0,0,0,0)"
+  Cor_Bom =
+  Cor_Ruim =
+  Cor_Destaque =
